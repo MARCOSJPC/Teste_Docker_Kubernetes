@@ -1,0 +1,6 @@
+Criando a variável de ambiente:
+:~# export TWORPTEST="true100%"
+
+Exibindo todas as variaveis de ambiente:
+:~# printenv | less
+
