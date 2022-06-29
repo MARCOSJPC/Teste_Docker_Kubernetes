@@ -51,24 +51,3 @@ $ docker login -u dockerdoshock
 $ docker tag marcos/app-node:1.0 dockerdoshock/app-node:1.0
 #Upando a imagem no dockerhub
 docker push dockershock/app-node:1.0
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
