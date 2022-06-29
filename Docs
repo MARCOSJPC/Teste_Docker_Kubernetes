@@ -1,0 +1,7 @@
+##Documentações utilizadas
+https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
+https://kubernetes.io/pt-br/docs/concepts/configuration/manage-resources-containers/
+https://kubernetes.io/pt-br/docs/concepts/configuration/secret/
+https://docs.docker.com/engine/install/ubuntu/
+https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/
+https://minikube.sigs.k8s.io/docs/start/
